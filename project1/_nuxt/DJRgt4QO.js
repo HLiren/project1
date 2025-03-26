@@ -1,0 +1,1 @@
+import{B as t}from"./BqYyig0m.js";async function a(){return await t.get("/config/allStatus")}async function c(){return await t.get("/config/core-config")}async function i(n){return await t.put("/config/core-config",n)}export{c as a,a as c,i as e};

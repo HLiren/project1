@@ -1,0 +1,1 @@
+import{B as t}from"./BqYyig0m.js";async function o(){return await t.get("/roles/roles")}async function s(e){return await t.post("/roles/roles",e)}async function a(e){return await t.put("/roles/roles",e)}async function n(e){return await t.delete("/roles/roles",e)}export{s as c,n as d,a as e,o as r};
